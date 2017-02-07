@@ -22,7 +22,7 @@ h6 {
 }
 
 .topnav {
-    font-size: 14px; 
+    font-size: 20px; 
 }
 
 .lead {
@@ -196,7 +196,6 @@ p.copyright {
 .companylogo
 {
     max-height: 100px;
-    margin: 20px;
     min-width: 80px;
 }
 
@@ -221,4 +220,22 @@ p.copyright {
   border: 1px solid black;
   color: #3b5998;
   background-color: transparent;
+}
+
+.offerttext p
+{
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.btn-circle
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    border-radius: 50px; 
+    -moz-border-radius: 50px; 
+    -webkit-border-radius: 50px; 
+    border: 1px solid #717F80;
 }
