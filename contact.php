@@ -6,7 +6,7 @@ $text = $_POST['message'];
 $name = $_POST['name'];
 
 $formcontent=" Od: $name" . "<br>". "Tytuł: Mail ze strony bax.sokolka.com" . "<br>" . "Treść: $text";
-$recipient = 'panonim7@gmail.com';
+$recipient = ' baxsokolka@op.pl';
 $mailsubject = "Mail ze strony bax.sokolka.com";
 $mailheader = "From: $email \r\n";
 $mailheader .= "MIME-Version: 1.0" . "\r\n";
